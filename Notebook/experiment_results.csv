@@ -1,0 +1,2 @@
+exp,val_rmse,seq_len,batch,epochs
+main_train,84.78780364990234,48,128,46
